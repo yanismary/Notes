@@ -54,3 +54,5 @@ Le compte-rendu du projet est également disponible dans le dépôt Git.
 ## Auteur
 
 Yanis MARY
+Baptiste GOULIER
+Hatim CHEIKH
